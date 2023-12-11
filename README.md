@@ -2,3 +2,4 @@
 
 * Writing simple Hello World
 * Declaring a variable and assigning value to it.
+* concatenating a variable to a string.
