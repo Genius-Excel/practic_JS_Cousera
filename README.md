@@ -4,3 +4,5 @@
 * Declaring a variable and assigning value to it.
 * concatenating a variable to a string.
 * interpolating a string with the back tick method.
+## conditional statements.
+* `IF` statements.
