@@ -5,4 +5,5 @@
 * concatenating a variable to a string.
 * interpolating a string with the back tick method.
 ## conditional statements.
-* `IF` statements.
+* `If` statements.
+* `Else If` statements.
