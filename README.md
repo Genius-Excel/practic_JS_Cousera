@@ -11,3 +11,4 @@
 
 ## Functions.
 * writing a function that adds 2 numbers.
+* writing a function that subtracts 2 numbers.
