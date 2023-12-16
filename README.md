@@ -8,3 +8,5 @@
 * `If` statements.
 * `Else If` statements.
 * `FizzBuzz` program.
+
+## Functions.
