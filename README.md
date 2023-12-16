@@ -1,4 +1,4 @@
-# This is my personal practice with JavaScrit.
+# This is my personal practice with JavaScprit.
 
 * Writing simple Hello World
 * Declaring a variable and assigning value to it.
