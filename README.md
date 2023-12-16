@@ -14,3 +14,4 @@
 * writing a function that subtracts 2 numbers.
 
 ## Objects and Array.
+* Declaring an array
