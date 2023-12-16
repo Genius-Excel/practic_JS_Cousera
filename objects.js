@@ -18,3 +18,9 @@ new_name = "Favour";
 my_object.last_name = new_name;
 
 console.log(my_object.last_name);
+
+console.log("----Adding a new property attribute to the Object. -----");
+
+my_object.new_attr = "A new attribute";
+
+console.log(my_object);
