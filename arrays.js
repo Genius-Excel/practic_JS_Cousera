@@ -26,3 +26,14 @@ for (i = 0; i < arr_len; i++)
 }
 
 
+// This is a while loop that prints all elements present in my_array.
+
+var j;
+
+j = 0;
+
+while (j < arr_len)
+{
+    console.log(`Elelement at index ${j} in my_array \n printed with a while loop is ${my_array[j]}`);
+    j += 1;
+}
