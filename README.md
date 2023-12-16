@@ -19,3 +19,6 @@
 * Getting elements present in an array by their index.
 * Printing elementes present in an array with a `For Loop`.
 * Printing elements present in an array with a `while loop`.
+
+## Objects.
+* Declaring an object.
