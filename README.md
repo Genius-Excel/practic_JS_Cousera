@@ -10,3 +10,4 @@
 * `FizzBuzz` program.
 
 ## Functions.
+* writing a function that adds 2 numbers.
