@@ -15,3 +15,4 @@
 
 ## Objects and Array.
 * Declaring an array
+* Getting elements present in an array by their index.
