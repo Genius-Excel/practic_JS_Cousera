@@ -14,7 +14,7 @@ result = additon(a, b);
 
 console.log(`The addition of ${a} and ${b} is ${result}`);
 
-
+// This funtion calculates the subtraction of 2 numbers.
 function subtraction(num1, num2)
 {
     return (num1 - num2);
