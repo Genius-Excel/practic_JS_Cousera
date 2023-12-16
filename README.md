@@ -27,3 +27,7 @@
 * Adding a new property attribute to an object.
 * Getting object values with array indexing.
 
+## Error Handling.
+* try-catch statement.
+* outputing custom errors.
+
