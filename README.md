@@ -13,7 +13,7 @@
 * writing a function that adds 2 numbers.
 * writing a function that subtracts 2 numbers.
 
-## Objects and Array.
+## Array and Elements.
 * Declaring an array
 * Getting the length of an array.
 * Getting elements present in an array by their index.
