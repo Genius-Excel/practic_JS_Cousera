@@ -22,3 +22,4 @@
 
 ## Objects.
 * Declaring an object.
+* Getting an object value using the dot notation.
