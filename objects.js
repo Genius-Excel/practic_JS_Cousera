@@ -8,7 +8,7 @@ var my_object = {
 
 console.log(my_object);
 
-console.log(my_object.first_name)
+console.log(my_object.first_name);
 
 console.log("-------Changing Object last_name attribute-----");
 
