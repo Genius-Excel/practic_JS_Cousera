@@ -24,3 +24,9 @@ console.log("----Adding a new property attribute to the Object. -----");
 my_object.new_attr = "A new attribute";
 
 console.log(my_object);
+
+// Accessing objects values with array indexing.
+
+console.log(my_object["city"]);
+console.log(my_object["country"]);
+console.log(my_object["last_name"])
