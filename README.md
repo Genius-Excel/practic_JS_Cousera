@@ -25,4 +25,5 @@
 * Getting an object value using the dot notation.
 * Updating value of an object using the dot notation.
 * Adding a new property attribute to an object.
+* Getting object values with array indexing.
 
