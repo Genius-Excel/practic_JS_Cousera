@@ -48,4 +48,4 @@ class HighSpeedTrain extends Train{
 }
 
 var obj = new HighSpeedTrain(5, true, "Black", true);
-obj.toggle_highspeed();
+// obj.toggle_highspeed();
