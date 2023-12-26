@@ -36,5 +36,6 @@
 * Class constructors.
 * Class objects.
 * Class Inheritance.
+* Method overriding.
 
 
