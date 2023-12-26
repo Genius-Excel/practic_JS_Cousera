@@ -7,9 +7,11 @@ class Mammal{
     };
 
     about(){
-        console.log(`This is the ${this.habitat} where I live.`);
+        console.log(`I am a Mammal and I live on ${this.habitat}`);
+        console.log(`I feed on ${this.feed}`);
     }
 
+    
 };
 
 var obj = new Mammal("Land", "Vegetables");
