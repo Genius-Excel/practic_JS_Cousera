@@ -27,4 +27,7 @@ class Train{
 
 var my_first_trian = new Train("red", true);
 
+my_first_trian.toggle_light();
+my_first_trian.get_self();
 my_first_trian.light_status();
+my_first_trian.get_prototype();
