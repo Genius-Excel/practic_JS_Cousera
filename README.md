@@ -32,5 +32,6 @@
 * outputing custom errors.
 
 # Object-Oriented Programming in JavaScript.
+* Classes in JavaScript
 
 
