@@ -7,4 +7,6 @@ class Train{
     }
 }
 
-new Train("red", true);
+var my_first_trian = new Train("red", true);
+
+console.log(my_first_trian);
