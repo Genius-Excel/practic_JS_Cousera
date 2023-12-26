@@ -34,5 +34,6 @@
 # Object-Oriented Programming in JavaScript.
 * Classes in JavaScript
 * Class constructors.
+* Class objects.
 
 
