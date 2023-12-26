@@ -35,5 +35,6 @@
 * Classes in JavaScript
 * Class constructors.
 * Class objects.
+* Class Inheritance.
 
 
