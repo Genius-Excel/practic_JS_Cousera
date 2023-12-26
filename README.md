@@ -39,4 +39,5 @@
 * Method overriding.
 * Inheriting properties of the base class.
 * Multile Inheritance.
+* Accessing properties of a Base class from a derived class.
 
