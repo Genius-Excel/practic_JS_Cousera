@@ -41,4 +41,5 @@
 * Multile Inheritance.
 * Accessing properties of a Base class from a derived class.
 * Accessing methods of a Base class from a derived class.
+* Creating new method in a class.
 
