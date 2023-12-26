@@ -34,9 +34,18 @@ var my_first_trian = new Train("red", true);
 
 class HighSpeedTrain extends Train{
     constructor(passengers, highspeed_on, colour, lights_on){
+        super(colour, lights_on);
         this.passengers = passengers;
         this.highspeed_on = highspeed_on;
-        super(colour, lights_on);
+        
+    }
+
+    toggle_highspeed(){
+        this.highspeed_on = !this.highspeed_on;
+        console.log('High Speed status:', this.highspeed_on);
     }
 
 }
+
+var obj = new HighSpeedTrain(5, true, "Black", true);
+obj.toggle_highspeed();
