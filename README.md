@@ -37,5 +37,6 @@
 * Class objects.
 * Class Inheritance.
 * Method overriding.
+* Inheriting properties of the base class.
 
 
