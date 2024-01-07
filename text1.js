@@ -1,5 +1,10 @@
 // this file is a simple loop shows that a string is also an array
 var i;
+
+var text; 
+
+text = "Hello World";
+
 var string_len;
 
 for (i = 0; i  < string_len; i++)
