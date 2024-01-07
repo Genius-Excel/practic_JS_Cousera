@@ -14,5 +14,7 @@ for (i = 0; i  < string_len; i++)
         console.log(`length of string is: ${i}`);
     
         console.log ("True, string is also an array in JavaScript");
+
+        console.log ("the input text" + text + "is indeed an array");
   }
   
