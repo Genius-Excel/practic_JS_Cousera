@@ -4,4 +4,7 @@ var i;
 var string_len;
 
 for (i = 0; i  < string_len; i++)
+  {
+        console.log(`length of string is: ${i}`);
+  }
   
