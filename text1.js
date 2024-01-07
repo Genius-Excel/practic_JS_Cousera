@@ -7,6 +7,7 @@ text = "Hello World";
 
 var string_len;
 
+string_len = text.length ();
 for (i = 0; i  < string_len; i++)
   {
         console.log(`length of string is: ${i}`);
