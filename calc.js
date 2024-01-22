@@ -7,3 +7,4 @@ var result = num1 + num2;
 
 console.log (result);
 // this is a simple calculation in Js.
+// code document 
